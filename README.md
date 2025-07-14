@@ -1,3 +1,4 @@
+🔥 Time Tracker Dashboard – Chrome Extension (MERN Stack)
 This Chrome Extension tracks and visualizes website usage time to help users boost productivity. Built using the MERN stack (MongoDB, Express, React, Node.js), the extension monitors how many minutes are spent on each website and displays the data on an interactive dashboard.
 
 💡 Features:
